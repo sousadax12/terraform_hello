@@ -1,3 +1,3 @@
 output "hello_world" {
-  value = "Hello, World! 3"
+  value = "Hello, World! 34"
 }
